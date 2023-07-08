@@ -90,6 +90,10 @@ nav a {
 }
 
 /*style for Section*/
+main{
+    max-width:1140px;
+    margin:0 auto;
+}
 .about{
     background-color:#FFF8F3;
     padding:130px; 
@@ -109,8 +113,17 @@ nav a {
     font-size: 18px;
     font-weight: 400;
 }
-/*style for the main*/
-.main{
-     max-width: 1140px;
-
+.about-info-container{
+    display:flex;
+    justify-content: space-around;
+    
+}
+.about-info{
+    text-align:center;
+}
+#what-i-do-description{
+    margin:30px 150px;
+}
+.paragraph{
+    text-align:center;
 }
