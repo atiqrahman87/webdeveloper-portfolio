@@ -109,3 +109,8 @@ nav a {
     font-size: 18px;
     font-weight: 400;
 }
+/*style for the main*/
+.main{
+     max-width: 1140px;
+
+}
