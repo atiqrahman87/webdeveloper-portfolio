@@ -156,3 +156,7 @@ line-height: 28px;
     text-align:center;
     font-size: 35px;
 }
+.resume-container{
+    display:flex;
+    
+}
